@@ -9,8 +9,7 @@ Import numpy module as np to use the built-in function for calcluating the dista
 Get the x1 and x2 values from the user to calculate the distance between the two points.
 ### Step 3: 
 Substitute the values in the distance formula 
-
- ![formula](./formula.JPG)
+![formula](./formula.JPG)
 ### Step 4: 
 Print the distance between the two points in two decimal places by {:.2f} format.
 ### Step 5: 
@@ -37,3 +36,6 @@ print("{:.2f}".format(d))
 ### RESULT:
 Thus, a python program to calculate the distance between the two points is executed successful
 
+
+
+[def]: ./formula.JPG
